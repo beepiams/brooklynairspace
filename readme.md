@@ -1,6 +1,15 @@
-# Foundation for Apps Template
+# Brooklyn Airspace Facade WebApp
 
-This is the default template project for Foundation for Apps. It's powered by Node, Gulp, Angular, and libsass. It provides you with a basic template to get started with Angular and Foundation for Apps. If you're already an Angular developer, you may instead want to install the components into your own stack using Bower: `bower install foundation-apps`
+http://brooklynairspace.com 
+with FrontDesk integration.
+
+BKAIR 1.2 「 stable build 」
+BKAIR 1.1 「 init release 」
+BKAIR 1.0 「 init teaser page 」
+
+##Foundation For Apps Template
+
+Foundation for App is powered by Node, Gulp, Angular, and libsass. If you're already an Angular developer, you may instead want to install the components into your own stack using Bower: `bower install foundation-apps`
 
 ## Requirements
 
