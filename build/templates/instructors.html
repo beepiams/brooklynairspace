@@ -1,0 +1,48 @@
+
+    <br /><br /><br /><br />
+    <div class="show-for-large">
+        <br /><br /><br /><br />
+    </div>
+    <!-- <strong><small><h6 style="letter-spacing: .5em;" align="center">{{vars.title}}</h6></small></strong> -->
+    <hr>
+    <div ng-controller="MyController2">
+        <slick responsive="breakpoints" slides-to-scroll="3" dots="true">
+        <div class="grid-content" ng-repeat="card in vars.cards">
+            <div class="card {{ card.color }}" align="center">
+                <img src="{{card.picture}}" align="center">
+                <div style="letter-spacing: .15em;" class="card-divider" align="center">
+                    <strong><small>{{card.name}}</small></strong>
+                    <br />
+                    <strong><small>{{card.title}}</small></strong>
+                </div>
+                <ul class="menu-bar primary">
+                    <li ng-repeat="network in card.social" >
+                        <a href="{{network.link}}" target="_blank"><i style="color: black;" class="{{network.icon}}"></i></a>
+                    </li>
+                </ul>
+                
+                    <zf-accordion auto-open="false" collapsible="true">
+                    <zf-accordion-item title="CLASSES" align="center">
+                    <section class="block-list">
+                        <ul class="icon-left vertical menu-bar">
+                            <li class="with-chevron" ng-repeat="course in card.classes"
+                                style="letter-spacing: .10em;">
+                                <a href="{{course.link}}" target="_blank">
+                                <i align="center" style="color: black;" class="{{course.icon}}"></i>
+                            <strong><header style="letter-spacing: .10em; color: black;">{{course.class}}</header></strong>
+                            </a>
+                        </li>
+                    </ul>
+                </section>
+                </zf-accordion-item>
+                <zf-accordion-item title="BIOGRAPHY"  align="center">
+                <div class="card-section">
+                    <p align="left"><strong>{{card.bio}}</strong></p>
+                </div>
+                </zf-accordion-item>
+                </zf-accordion>
+            
+        </div>
+    </div>
+    </slick>
+</div>

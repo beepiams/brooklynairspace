@@ -1,0 +1,1161 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"ali",
+				"align"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"white",
+				"white-space"
+			],
+			[
+				"overl",
+				"overflow"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"rg",
+				"rgba(#000"
+			],
+			[
+				"teach",
+				"teaching"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"background",
+				"background-origin"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"rgb",
+				"rgba(#000"
+			],
+			[
+				"breakpoin",
+				"breakpoints"
+			],
+			[
+				"al",
+				"align	Attr"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"control",
+				"controller	AngularJS"
+			],
+			[
+				"ng-",
+				"ng-include	AngularJS"
+			],
+			[
+				"ng",
+				"ng-template	AngularJS"
+			],
+			[
+				"position",
+				"positionFooter"
+			],
+			[
+				"hinge",
+				"hingeInFromTop"
+			],
+			[
+				"style",
+				"style	Attr"
+			],
+			[
+				"st",
+				"style	HTML - Stylesheet link"
+			],
+			[
+				"instagram",
+				"instagram_pic"
+			],
+			[
+				"sty",
+				"style	<style>"
+			],
+			[
+				"to",
+				"toggle"
+			],
+			[
+				"backgr",
+				"background:#179ffa"
+			],
+			[
+				"contro",
+				"controller	AngularJS"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"alig",
+				"alignCenter"
+			],
+			[
+				"vid",
+				"video	Tag"
+			],
+			[
+				"video",
+				"video	<video>"
+			],
+			[
+				"proj",
+				"projects"
+			],
+			[
+				"parlo",
+				"parlophone_logo"
+			],
+			[
+				"view",
+				"viewport"
+			],
+			[
+				"append",
+				"appendTo	.appendTo()"
+			],
+			[
+				"fill",
+				"fill=\"#000000"
+			],
+			[
+				"aaronsc",
+				"aaronscaturro_logo"
+			],
+			[
+				"aaron",
+				"aaronscaturro_logo"
+			],
+			[
+				"aa",
+				"aaronscaturro_logo"
+			],
+			[
+				"background-",
+				"background-origin"
+			],
+			[
+				"a",
+				"a	<a href=\"mailto:\"> "
+			],
+			[
+				"now",
+				"now"
+			],
+			[
+				"Mete",
+				"Meteor.publish	Meteor.publish(name, fn)"
+			],
+			[
+				"link",
+				"link	Tag"
+			],
+			[
+				"fixed",
+				"fixed"
+			],
+			[
+				"veri",
+				"vertical-align"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"letter",
+				"letter-spacing"
+			],
+			[
+				"translate",
+				"translateY"
+			],
+			[
+				"MeshBasic",
+				"THREE.MeshBasicMaterial"
+			],
+			[
+				"inn",
+				"innerWidth	.innerWidth()"
+			],
+			[
+				"inner",
+				"innerHeight	.innerHeight()"
+			],
+			[
+				"middle",
+				"middlestuff"
+			],
+			[
+				"abo",
+				"absolute"
+			],
+			[
+				"menu",
+				"menuIcon"
+			],
+			[
+				"scro",
+				"scrollTop	.scrollTop()"
+			],
+			[
+				"modal",
+				"modalFurniture"
+			],
+			[
+				"owl",
+				"owlCarousel"
+			],
+			[
+				"ECe",
+				"ECE9D8"
+			],
+			[
+				"zf",
+				"zf-clearing	ZURB Foundation 5 Clearing"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "client/index.html",
+			"settings":
+			{
+				"buffer_size": 8269,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/assets/js/app.js",
+			"settings":
+			{
+				"buffer_size": 3466,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 6240,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "bower_components/ui-router/src/urlRouter.js",
+			"settings":
+			{
+				"buffer_size": 14421,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 370.0,
+		"last_filter": "codese",
+		"selected_items":
+		[
+			[
+				"codese",
+				"Code Search Index"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"search",
+				"File: Search Files"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"Themr: List themes"
+			],
+			[
+				"format",
+				"CodeFormatter: Format as HTML Syntax"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"vint",
+				"Vintageous: Exit from command mode"
+			],
+			[
+				"vin",
+				"Vintageous: Exit from command mode"
+			],
+			[
+				"lint this",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"sublim",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"lint",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"sublimelinter",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"pretty",
+				"Pretty YAML: Reformat (Pretty Print) YAML"
+			],
+			[
+				"yaml",
+				"Set Syntax: YAML"
+			],
+			[
+				"vinta",
+				"Build With: Vintageous - Vintageous - Test (All)"
+			],
+			[
+				"vim",
+				"Set Syntax: Vintageous Command Line"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"uppercase",
+				"Snippet: |uppercase"
+			],
+			[
+				"formath",
+				"CodeFormatter: Format as HTML Syntax"
+			],
+			[
+				"angular",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"convert",
+				"Convert Case: Lower Case"
+			],
+			[
+				"cas",
+				"Convert Case: Lower Case"
+			],
+			[
+				"colorscheme",
+				"SublimeLinter: Clear Color Scheme Folder"
+			],
+			[
+				"format h",
+				"CodeFormatter: Format as HTML Syntax"
+			],
+			[
+				"thml",
+				"Set Syntax: HTML5"
+			],
+			[
+				"colorsub",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				"jslint",
+				"JSLint"
+			],
+			[
+				"sublimelin",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"linter",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"setsyntaxjav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"be",
+				"Javascript Beautify"
+			],
+			[
+				"beaut",
+				"Javascript Beautify"
+			],
+			[
+				"beau",
+				"Javascript Beautify"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"them",
+				"Themr: Toggle Theme Settings"
+			],
+			[
+				"the",
+				"Themr: Toggle Theme Settings"
+			],
+			[
+				"th",
+				"Themr: Toggle Theme Settings"
+			],
+			[
+				"themr",
+				"Themr: List themes"
+			],
+			[
+				"UPPER",
+				"Convert Case: Upper Case"
+			],
+			[
+				"FORMAT",
+				"CodeFormatter: Format as HTML Syntax"
+			],
+			[
+				"uppercas",
+				"Convert Case: Upper Case"
+			],
+			[
+				"form",
+				"CodeFormatter: Format as HTML Syntax"
+			],
+			[
+				"case",
+				"Convert Case: Upper Case"
+			],
+			[
+				"conver",
+				"Convert Case: Upper Case"
+			],
+			[
+				"formst",
+				"CodeFormatter: Format as HTML Syntax"
+			],
+			[
+				"forma",
+				"CodeFormatter: Format as HTML Syntax"
+			],
+			[
+				"CASE",
+				"Convert Case: Upper Case"
+			],
+			[
+				"colro",
+				"Color Picker"
+			],
+			[
+				"formac",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"co",
+				"Color Picker"
+			],
+			[
+				"colr",
+				"Color Picker"
+			],
+			[
+				"col",
+				"Color Picker"
+			],
+			[
+				"fomra",
+				"CodeFormatter: Format as HTML Syntax"
+			],
+			[
+				"fom",
+				"CodeFormatter: Format as HTML Syntax"
+			],
+			[
+				"fomrat",
+				"CodeFormatter: Format as HTML Syntax"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"code",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"fo",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"fora",
+				"Format Code"
+			],
+			[
+				"fomr",
+				"Format Code"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"coo",
+				"Color Picker"
+			],
+			[
+				"commen",
+				"Toggle Comment"
+			]
+		],
+		"width": 678.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Home/Dropbox/Projects/bkairspace/airspace_facade/bower_components",
+		"/Users/Home/Dropbox/Projects/bkairspace/airspace_facade/bower_components/ui-router",
+		"/Users/Home/Dropbox/Projects/bkairspace/airspace_facade/bower_components/ui-router/src",
+		"/Users/Home/Dropbox/Projects/bkairspace/airspace_facade/client",
+		"/Users/Home/Dropbox/Projects/bkairspace/airspace_facade/client/assets",
+		"/Users/Home/Dropbox/Projects/bkairspace/airspace_facade/client/assets/js"
+	],
+	"file_history":
+	[
+		"/Users/Home/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Home/Dropbox/Projects/problem/451/01_Development/foundation-essentials-5/index.html",
+		"/Users/Home/Downloads/foundation-5/index.html",
+		"/Users/Home/Library/Caches/Cleanup At Startup/Transmit/D7CBB58E-E880-46BD-87FF-A12DC6C8DA84/index.html",
+		"/Users/Home/Dropbox/Projects/Arron_Scaturro/ams_markup/index.html",
+		"/Users/Home/Dropbox/Projects/mimiiams/mimiiams_markup/client/templates/home.html",
+		"/Users/Home/Dropbox/Projects/mimiiams/mimiiams_markup/client/assets/scss/_settings.scss",
+		"/Users/Home/Dropbox/Projects/mimiiams/mimiiams_markup/client/index.html",
+		"/Users/Home/Dropbox/Projects/mimiiams/mimiiams_markup/client/assets/scss/app.scss",
+		"/Users/Home/Dropbox/Projects/Kyla_Ernst_Alper/06.Development/kyla_angular/client/assets/scss/app.scss",
+		"/Users/Home/Dropbox/Projects/Kyla_Ernst_Alper/06.Development/kyla_angular/client/templates/bio.html",
+		"/Users/Home/Desktop/tumblr.html",
+		"/Users/Home/Dropbox/Projects/mimiiams/mimiiams_markup/bower_components/swiper/dist/swiper_angular/swiper-angular.js",
+		"/Users/Home/Dropbox/Projects/problem/problem_facade/client/assets/scss/_settings.scss",
+		"/Users/Home/Dropbox/Projects/problem/problem_facade/client/index.html",
+		"/Users/Home/Dropbox/Projects/problem/problem_facade/client/templates/swiper.html",
+		"/Users/Home/Dropbox/Projects/mimiiams/mimiiams_markup/gulpfile.js",
+		"/Users/Home/Dropbox/Projects/problem/problem_facade/client/assets/scss/app.scss",
+		"/Users/Home/Dropbox/Projects/mimiiams/mimiiams_markup/client/assets/js/app.js",
+		"/Users/Home/Dropbox/Projects/problem/problem_facade/bower_components/swiper/dist/js/swiper-angular.js",
+		"/Users/Home/Dropbox/Projects/problem/problem_facade/client/assets/js/app.js",
+		"/Users/Home/Dropbox/Projects/problem/problem_facade/gulpfile.js",
+		"/Users/Home/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Home/Dropbox/Projects/problem/problem_facade/client/templates/pitch.html",
+		"/Users/Home/Downloads/jsl-0.3.0-mac/jsl.default.conf",
+		"/Users/Home/Downloads/jsl-0.3.0-mac/jsl-test.js",
+		"/Users/Home/Desktop/.eslintrc",
+		"/Users/Home/Dropbox/Projects/bkairspace/airspace_facade/client/templates/instructors.html",
+		"/Users/Home/Dropbox/Projects/beepia.ms/06.Development/beepiams_markup/index.html",
+		"/Users/Home/Dropbox/Projects/beepia.ms/06.Development/beepiams_markup/scss/_fluidbox.scss",
+		"/Users/Home/Dropbox/Projects/beepia.ms/06.Development/beepiams_markup/public/ajax/lg.html",
+		"/Users/Home/Dropbox/Projects/bkairspace/airspace_facade/client/index.html",
+		"/Users/Home/Dropbox/Projects/bkairspace/airspace_facade/client/templates/classes.html",
+		"/Users/Home/Dropbox/Projects/Kyla_Ernst_Alper/06.Development/kyla_angular/client/templates/home.html",
+		"/Users/Home/Dropbox/Projects/Kyla_Ernst_Alper/06.Development/kyla_angular/gulpfile.js",
+		"/Users/Home/Dropbox/Projects/Kyla_Ernst_Alper/06.Development/kyla_angular/client/assets/js/app.js",
+		"/Users/Home/Dropbox/Projects/Kyla_Ernst_Alper/06.Development/kyla_angular/bower_components/swiper/dist/css/swiper.css",
+		"/Users/Home/Dropbox/Projects/Kyla_Ernst_Alper/06.Development/kyla_angular/client/index.html",
+		"/Users/Home/Dropbox/Projects/Kyla_Ernst_Alper/06.Development/kyla_angular/client/templates/projects.html",
+		"/Users/Home/Dropbox/Projects/Kyla_Ernst_Alper/06.Development/kyla_angular/bower_components/swiper/dist/css/swiper.scss",
+		"/Users/Home/Dropbox/Projects/Kyla_Ernst_Alper/06.Development/kyla_angular/client/assets/scss/_settings.scss",
+		"/Users/Home/Dropbox/Projects/Kyla_Ernst_Alper/06.Development/kyla_angular/bower_components/swiper/dist/js/swiper-angular.js",
+		"/Users/Home/Dropbox/Projects/bkairspace/airspace_facade/client/assets/js/app.js",
+		"/Users/Home/Dropbox/Projects/bkairspace/airspace_facade/client/assets/scss/app.scss",
+		"/Users/Home/Dropbox/Projects/Kyla_Ernst_Alper/06.Development/kyla_angular/bower_components/swiper/dist/css/swiper.min.css",
+		"/Users/Home/Dropbox/Projects/Kyla_Ernst_Alper/06.Development/kyla_angular/bower_components/swiper/dist/js/swiper.jquery.js",
+		"/Users/Home/Dropbox/Projects/Kyla_Ernst_Alper/06.Development/kyla_angular/client/assets/js/swiper-angular.js alias",
+		"/Users/Home/Dropbox/Projects/bkairspace/airspace_facade/client/templates/schedule.html",
+		"/Users/Home/Desktop/something.html",
+		"/Users/Home/Dropbox/Projects/bkairspace/airspace_facade/client/templates/carouselofprog.html",
+		"/Users/Home/Dropbox/Projects/bkairspace/airspace_facade/gulpfile.js",
+		"/Users/Home/Dropbox/Projects/bkairspace/airspace_facade/node_modules/front-matter/index.js",
+		"/Users/Home/Dropbox/Projects/bkairspace/airspace_facade/client/templates/home.html",
+		"/Users/Home/Dropbox/Projects/Kyla_Ernst_Alper/06.Development/kyla_angular/bower.json",
+		"/Users/Home/Dropbox/Projects/Kyla_Ernst_Alper/06.Development/kyla_angular/client/assets/scss/cubeportfolio.scss",
+		"/Users/Home/Dropbox/Projects/Kyla_Ernst_Alper/06.Development/kyla_angular/bower_components/foundation-apps/scss/components/_off-canvas.scss",
+		"/Users/Home/Dropbox/Projects/Kyla_Ernst_Alper/06.Development/kyla_angular/bower_components/foundation-apps/scss/components/_accordion.scss",
+		"/Users/Home/Dropbox/Projects/problem/problem_facade/bower_components/swiper/dist/css/swiper.scss",
+		"/Users/Home/Dropbox/Projects/problem/problem_facade/client/assets/portfolio/problem_logo_bk.svg",
+		"/Users/Home/Dropbox/Projects/problem/problem_facade/client/templates/timberland.html",
+		"/Users/Home/Dropbox/Projects/problem/problem_facade/client/assets/portfolio/problem_logo_bk.png",
+		"/Users/Home/Dropbox/Projects/bkairspace/bk_as_cards/client/templates/curriculum.html",
+		"/Users/Home/Downloads/problem-1.svg",
+		"/Users/Home/Dropbox/Projects/problem/problem_facade/bower_components/swiper/dist/js/swiper.js",
+		"/Users/Home/Dropbox/Projects/problem/problem_facade/client/assets/fonts/ak/stylesheet.css",
+		"/Users/Home/Dropbox/Projects/problem/problem_facade/client/assets/fonts/corporate/stylesheet.css",
+		"/Users/Home/Dropbox/Projects/problem/problem_facade/client/assets/fonts/corporate_s/stylesheet.css",
+		"/Users/Home/Dropbox/Projects/problem/problem_facade/client/assets/fonts/ak/specimen_files/easytabs.js",
+		"/Users/Home/Dropbox/Projects/problem/problem_facade/client/assets/fonts/ak/specimen_files/specimen_stylesheet.css",
+		"/Users/Home/Dropbox/Projects/problem/problem_facade/client/assets/fonts/ak/AkzidenzGrotesk-Bold-demo.html",
+		"/Users/Home/Dropbox/Projects/problem/problem_facade/client/assets/fonts/corporate_s/generator_config.txt",
+		"/Users/Home/Dropbox/Projects/problem/problem_facade/client/assets/fonts/corporate_s/specimen_files/specimen_stylesheet.css",
+		"/Users/Home/Dropbox/Projects/bkairspace/bk_as_cards/client/assets/scss/app.scss",
+		"/Users/Home/Dropbox/Projects/bkairspace/bk_as_cards/client/assets/scss/_settings.scss",
+		"/Users/Home/Dropbox/Projects/Kyla_Ernst_Alper/06.Development/kyla_markup/scss/_fonts.scss",
+		"/Users/Home/Dropbox/Projects/problem/problem_facade/client/assets/fonts/corporate_s/ufonts.com_corporate-s-bold-demo.html",
+		"/Users/Home/Desktop/swiper.html",
+		"/Users/Home/Dropbox/Projects/problem/problem_facade/bower_components/swiper/dist/css/swiper.css",
+		"/Users/Home/Dropbox/Projects/Arron_Scaturro/ams_markup/scss/_style.scss",
+		"/Users/Home/Dropbox/Projects/problem/problem_facade/bower_components/swiper/dist/js/swiper.jquery.min.js",
+		"/Users/Home/Dropbox/Projects/Arron_Scaturro/ams_markup/scss/_fonts.scss",
+		"/Users/Home/Dropbox/Projects/problem/problem_facade/client/templates/lupefiasco.html",
+		"/Users/Home/Dropbox/Projects/problem/problem_facade/client/templates/about.html",
+		"/Users/Home/Dropbox/Projects/problem/problem_facade/bower_components/swiper/dist/js/swiper.jquery.js",
+		"/Users/Home/Dropbox/Projects/problem/problem_facade/Gemfile.lock",
+		"/Users/Home/Dropbox/Projects/problem/problem_facade/bower_components/slick-carousel/slick/slick.scss",
+		"/Users/Home/Dropbox/Projects/problem/problem_facade/client/templates/twoofus.html",
+		"/Users/Home/Dropbox/Projects/problem/problem_facade/bower_components/slick-carousel/slick/slick.css",
+		"/Users/Home/Dropbox/Projects/problem/problem_facade/bower_components/slick-carousel/slick/slick.js",
+		"/Users/Home/Dropbox/Projects/problem/problem_facade/bower_components/angularjs-idangero.us-swiper-master/index.html",
+		"/Users/Home/Dropbox/Projects/bkairspace/airspace_facade/bower_components/angular-slick/dist/slick.js",
+		"/Users/Home/Desktop/swiper.mdown",
+		"/Users/Home/.Trash/angularjs-idangero.us-swiper-master/index.html",
+		"/Users/Home/.Trash/angularjs-idangero.us-swiper-master/vendor/angular.js",
+		"/Users/Home/.Trash/angularjs-idangero.us-swiper-master/vendor/angular-ui-router.js",
+		"/Users/Home/Dropbox/Projects/bkairspace/airspace_facade/bower_components/angular-smoothscroll/dist/scripts/bb15da28.scripts.js",
+		"/Users/Home/Dropbox/Projects/bkairspace/airspace_facade/bower_components/angular-scroll/angular-scroll.js",
+		"/Users/Home/Dropbox/Projects/problem/problem_facade/bower_components/angular-swiper-repeat/swiperRepeat.js",
+		"/Users/Home/Dropbox/Projects/problem/problem_facade/bower_components/angular-swiper/README.md",
+		"/Users/Home/Dropbox/Projects/problem/problem_facade/bower_components/angular-carousel/fullscreen.html",
+		"/Users/Home/Dropbox/Projects/problem/problem_facade/bower_components/angular-carousel/index.html",
+		"/Users/Home/Dropbox/Projects/bkairspace/airspace_facade/client/assets/scss/_settings.scss",
+		"/Users/Home/Dropbox/Projects/bkairspace/airspace_facade/bower_components/slick-carousel/slick/slick.scss",
+		"/Users/Home/Dropbox/Projects/problem/problem_facade/bower_components/angular-carousel/src/css/angular-carousel.scss",
+		"/Users/Home/Dropbox/Projects/problem/problem_facade/bower_components/angular-carousel/dist/angular-carousel.scss",
+		"/Users/Home/Dropbox/Projects/problem/problem_facade/node_modules/font-awesome/README.md",
+		"/Users/Home/Dropbox/Projects/bkairspace/airspace_facade/bower.json",
+		"/Users/Home/Dropbox/Projects/problem/problem_facade/package.json",
+		"/Users/Home/Dropbox/Projects/bkairspace/bk_as_cards/gulpfile.js",
+		"/Users/Home/Dropbox/Projects/bkairspace/bk_as_cards/Gemfile.lock",
+		"/Users/Home/Dropbox/Projects/LE_MEME/deux.lememe.com/gulpfile.js",
+		"/Users/Home/Dropbox/Projects/bkairspace/classes_archive",
+		"/Users/Home/Dropbox/Projects/bkairspace/airspace_facade/build/assets/css/fonts/slick.svg",
+		"/Users/Home/Dropbox/Projects/bkairspace/airspace_facade/build/assets/css/fonts/slick.eot",
+		"/Users/Home/Dropbox/Projects/bkairspace/airspace_facade/bower_components/slick-carousel/slick/slick.css",
+		"/Users/Home/Dropbox/Projects/LE_MEME/deux.lememe.com/client/assets/js/app.js",
+		"/Users/Home/Dropbox/Projects/LE_MEME/deux.lememe.com/client/templates/home.html",
+		"/Users/Home/Dropbox/Projects/LE_MEME/deux.lememe.com/client/assets/scss/app.scss",
+		"/Users/Home/Dropbox/Projects/bkairspace/bk_as_cards/client/assets/js/app.js",
+		"/Users/Home/Dropbox/Projects/bkairspace/airspace_facade/client/index2.html",
+		"/Users/Home/Desktop/classes_untemplated",
+		"/Users/Home/Desktop/armand",
+		"/Users/Home/Downloads/Animated-Vertical-Accordion-Menu-with-jQuery-CSS3-mtree-js/mtree.css",
+		"/Users/Home/Dropbox/Projects/bkairspace/airspace_facade/bower_components/jquery/dist/jquery.js",
+		"/Users/Home/Dropbox/Projects/bkairspace/airspace_facade/bower_components/isotope/jquery.isotope.js",
+		"/Users/Home/Dropbox/Projects/bkairspace/airspace_facade/bower_components/isotope/dist/isotope.pkgd.js",
+		"/Users/Home/Dropbox/Projects/bkairspace/airspace_facade/bower_components/angular-isotope/dist/angular-isotope.js",
+		"/Users/Home/Dropbox/Projects/bkairspace/airspace_facade/bower_components/angular-isotope/demo/scripts/app.js"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 109.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"appendBasePath",
+			"server",
+			"logo",
+			"'",
+			"`",
+			"`'",
+			":",
+			"\"\"",
+			"webcal",
+			"pagination",
+			"bullet",
+			"off-canvas",
+			"fff",
+			"off-canvas",
+			"background",
+			"off-canvas",
+			"transparent",
+			"pagination",
+			"swiper-pagination",
+			"swiper",
+			"browser-sync",
+			"close-button",
+			"block list",
+			"frame",
+			"grid-frame",
+			"arrows",
+			"global-padding",
+			"menubar",
+			"4.00000",
+			"bedding",
+			"        link: /about\nbedding",
+			"        link: /about\nfurniture",
+			"furniture",
+			"pagination",
+			"header-font-color",
+			"small",
+			"a",
+			"dark",
+			"menu bar",
+			"menu-bar",
+			"Frame",
+			"grid-frame",
+			"gridframe",
+			"background",
+			"ready",
+			"vert",
+			"vertical",
+			"swipeMove",
+			"reInit",
+			"]",
+			"[",
+			"directive",
+			"angular",
+			"onBeforeChange",
+			"parallax",
+			"effect",
+			"watchSlidesProgress",
+			"swiper-button-prev",
+			"dark",
+			"menu bar",
+			"menu",
+			"menu-bar",
+			"menu",
+			"connect",
+			"moving intel",
+			"slick-dot-color",
+			"544",
+			"#",
+			"dots",
+			"slick",
+			"aaron",
+			"shalva",
+			"amanda",
+			"p2",
+			"card",
+			"small",
+			"category",
+			"membership",
+			"categor",
+			"grunt",
+			"module",
+			"main",
+			"ngClick",
+			"carousel",
+			"slick.html",
+			"slick",
+			"flexslider",
+			"sticky-box",
+			"padding",
+			"chevron",
+			"blocklist",
+			"block-list",
+			"packages",
+			"rules",
+			"aerial",
+			"packages",
+			"icon",
+			"off-canvas",
+			"zf-close=\"\"",
+			"ui-sref",
+			"font",
+			".app-view",
+			"require",
+			"4.",
+			"public",
+			"nav class",
+			"nav-fan",
+			"baraja-el",
+			"bio",
+			"body-background",
+			"css",
+			"\"css\"",
+			"css",
+			"famous",
+			"dots",
+			"arrow",
+			"arrows",
+			"arrow",
+			"large",
+			"connect",
+			"amanda",
+			"map",
+			"1",
+			"height",
+			"dot",
+			"gulp-ruby-sass",
+			"1",
+			"ui.router"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+			" ",
+			"",
+			"assets/public/img",
+			"fa-envelope",
+			"",
+			"icon:",
+			"snapshots",
+			"portrait",
+			"dance",
+			"public/ajax",
+			"ACCESS",
+			"public/logos",
+			" ",
+			"",
+			"galleryContainer",
+			"galleryFiltersContainer",
+			"public/img/",
+			"public/ajax/",
+			"public/ajax",
+			"public/img/",
+			"public/img",
+			"public/img/14.jpg",
+			"V",
+			"96",
+			"64",
+			"180",
+			"Josefin Sans",
+			"Nunito"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "client/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8269,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								984,
+								984
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "client/assets/js/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3466,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								656,
+								656
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 102.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6240,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1704,
+								1704
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 334.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "bower_components/ui-router/src/urlRouter.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14421,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9478,
+								9492
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4259.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.629400872565,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.coffeecompile_output":
+	{
+		"height": 705.0
+	},
+	"output.exec":
+	{
+		"height": 631.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "bkairspace.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"airspace_facade/.bowerrc"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 258.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

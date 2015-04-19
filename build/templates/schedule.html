@@ -1,0 +1,95 @@
+    <br /><br /><br /><br />
+    <div class="show-for-large">
+        <br /><br /><br /><br />
+    </div>
+
+
+
+    <strong>
+    <h5 style="letter-spacing: .5em;" align="center">
+    {{vars.title}}
+    </h5>
+    <hr>
+    </strong>
+    <br />
+
+
+<link href="http://brooklynairspace.frontdeskhq.com/styles_widget/9501.css?1424122170" media="screen" rel="stylesheet" type="text/css">
+<span>
+<script defer src="http://fdhq-assets.s3.amazonaws.com/widget/schedule/app.min.js"></script>
+</span>
+<div class="fd-config" data-fd-timezone="America/New_York" data-fd-domain="brooklynairspace" data-fd-path="/schedule"></div>
+<div data-ng-view="" id="fd_schedule" data-ng-cloak="">
+<a href="https://brooklynairspace.frontdeskhq.com/schedule?utm_campaign=ClientReferral&utm_medium=website&utm_content=button&utm_term=FD%20Share&utm_source=brooklynairspace">Schedule</a>
+</div>
+
+
+                    <section class="block-list">
+                        <ul class="icon-left vertical menu-bar">
+                            <li class="with-chevron" ng-repeat="schedule in vars.schedules"
+                                style="letter-spacing: .10em;">
+                                <a href="{{schedule.link}}" target="_blank">
+
+                                <i align="center" style="color: black;" class="{{schedule.icon}}"></i>
+                                <h6 style="letter-spacing: .5em; text-transform: uppercase;" align="center">{{schedule.time}}</h6>
+                            <strong><header style="letter-spacing: .10em; color: black;">{{schedule.class}}</header></strong>
+                            </a>
+                        </li>
+                    </ul>
+                </section>
+
+
+
+
+<div ng-controller="MyController"  ng-repeat="category in vars.categories">
+            <h6 style="letter-spacing: .5em; text-transform: uppercase;" align="center">{{category.name}}</h6>
+            <hr>
+            <!-- POPULATE CLASSES -->
+<!--     <slick responsive="breakpoints"  slides-to-scroll="3" dots="true">
+            <div class="grid-content" ng-repeat="card in category.cards" >
+
+                <div class="card {{ card.color }}" style="letter-spacing: .05em;" align="center">
+                    <h4><strong>{{card.class}}</strong></h4>
+                    <h6><small>{{card.date}}</small></h6>
+                    <section class="block-list">
+                        <ul class="icon-top menu-bar vertical">
+                            <li class="with-chevron" ng-repeat="deal in card.deals" style="letter-spacing: .10em;">
+                                <a href="{{deal.link}}" target="_blank" align="center">
+                                <small style="color: black;">
+                                {{deal.name}}
+                                </small>
+                                <br />
+                                <i class="{{deal.icon}}" style="color: black;"></i>
+                                <br />
+                                <strong style="color: black;">
+                                {{deal.price}}
+                                </strong>
+                                <br />
+                                <small style="color: black;">
+                                <strong>{{deal.value}}
+                                </strong>
+                                </small>
+                                </a>
+                            </li>
+                        </ul>
+                        </section>
+                    <zf-accordion auto-open="false" collapsible="true">
+                    <zf-accordion-item title="DESCRIPTION" align="center">
+                                <div class="card-section">
+                                    <p align="left"><strong>{{card.description}}</strong></p>
+                                </div>
+                                </zf-accordion-item>
+                                <zf-accordion-item title="QUALIFICATIONS"  align="center">
+                                <div class="card-section">
+                                    <li ng-repeat="rule in card.rules">
+                                        <p align="left"><strong>{{rule.name}}</strong></p>
+                                    </li>
+                                </div>
+                    </zf-accordion-item>
+                    </zf-accordion>
+                
+</div>
+</div>
+</slick> -->
+
+ 

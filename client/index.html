@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="en" ng-app="application">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="description" content="@ IMMERSIVE GALLERY — 132 BEDFORD AVE — BROOKLYN NEW YORK | AERIAL | DANCE | CIRCUS | CONDITIONING | FLEXIBILITY | PILATES | GYROKINESIS® ">
+        <meta NAME="keywords" content="aerial, dance, circus, williamsburg, fitness, brooklyn, pilates, gyrokinesis, ballet, silks, lyra, gym, conditioning, cyr, german wheel, corde lisse, modern dance, rehearsal space, classes">
+
+        <title>BROOKLYN AIRSPACE</title>
+        <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+        <link href="/assets/css/app.css" rel="stylesheet" type="text/css">
+
+        <script src="/assets/js/foundation.js"></script>
+        <script src="/assets/js/routes.js"></script>
+        <script src="/assets/js/app.js"></script>
+
+        <base href="/" />
+    </head>
+    <body>
+
+<!-- Off-Canvas Menu -->
+
+     <zf-offcanvas id="menu" position="top" class="primary">
+     <a class="close-button" style="color: gold;" zf-close="">×</a>
+        <div class="grid-content" style="padding: 0;" align="center">
+        <div class="card dark">
+             <div class="card-section" align="center">
+                <a class="" zf-close="">
+                    <img media="small" src="assets/img/logos/bkairspace_white_logo.png">
+                    <br />
+                    <strong style="letter-spacing: .05em;"><small>AT IMMERSIVE GALLERY, 132 BEDFORD AVE. BROOKLYN</small></strong>
+                </a>
+             </div>
+                <ul class="dark icon-top menu-bar" align="center">
+                    <li align="center"><a ui-sref="home" zf-close="" ><i class="fa fa-plane fa-rotate-270 fa-lg"></i><br /><strong><small>HOME</small></strong></a></li>
+                    <li align="center"><a ui-sref="instructors" zf-close="" ><i class="fa fa-space-shuttle fa-rotate-270  fa-lg"></i><br /><strong><small>INSTRUCTORS</small></strong></a></li>
+                    <li align="center"><a ui-sref="classes" zf-close=""><i class="fa fa-paper-plane  fa-lg"></i><br /><strong><small>CLASSES</small></strong></a></li>
+                </ul>
+                <ul class="dark icon-top menu-bar" align="center">
+                    <li align="center"><a href="https://goo.gl/maps/tlZoH" target="_blank"><i class="fa fa-map-marker fa-lg"></i>
+                    <br /><strong><small>GET MAP</small></strong></a></li>
+                    <li align="center"><a href="https://brooklynairspace.frontdeskhq.com/schedule?utm_campaign=ClientReferral&utm_medium=website&utm_content=button&utm_term=FD%20Share&utm_source=brooklynairspace" target="_blank"><i class="fa fa-calendar fa-lg"></i>
+                    <br /><strong><small>GET CALENDAR</small></strong></a></li>
+                    <li align="center"><a href="http://brooklynairspace.us9.list-manage.com/subscribe?u=2ab191cf6852907a40928cc40&id=3c6069fbcb"><i class="fa fa-newspaper-o fa-lg" target="_blank"></i><br /><strong><small>SUBSCRIBE</small></strong>
+                    </a></li>
+                </ul>
+                <ul class="dark menu-bar" align="center">
+                    <li align="center"><a href="mailto:bkairspace@gmail.com?Subject=AirSpace Inquiry" target="_blank"><i class="fa fa-envelope-o fa-lg"></i>
+                        <!-- <br /><strong><small>CONTACT</small></strong> -->
+                    </a></li>
+                    <li align="center"><a href="http://twitter.com/bkairspace" target="_blank"><i class="fa fa-twitter fa-lg"></i>
+                        <!-- <br /><strong><small>TWITTER</small></strong> -->
+                    </a></li>
+                    <li align="center"><a href="http://facebook.com/bkairspace" target="_blank"><i class="fa fa-facebook fa-lg"></i>
+                        <!-- <br /><strong><small>FACEBOOK</small></strong> -->
+                    </a></li>
+                    <li align="center"><a href="http://instagram.com/bkairspace" target="_blank"><i class="fa fa-instagram fa-lg"></i>
+                        <!-- <br /><strong><small>INSTAGRAM</small></strong> -->
+                    </a></li>
+                </ul>
+            </div>
+        </div>
+     </zf-offcanvas>
+
+ <!-- DESKTOP NAV -->
+
+    <div class="menu-group dark" id="header">
+                <div class="menu-group-left show-for-large">
+                    <ul class="menu-bar dark icon-left">
+                        <li>
+                        <a href="mailto:bkairspace@gmail.com?Subject=AirSpace Inquiry" target="_blank">
+                        <i class="fa fa-envelope-o fa-lg"></i>
+                        <br /><strong><small>CONTACT</small>
+                        </strong></a>
+                        </li>
+
+                        
+                        <li><a href="https://brooklynairspace.frontdeskhq.com/schedule?utm_campaign=ClientReferral&utm_medium=website&utm_content=button&utm_term=FD%20Share&utm_source=brooklynairspace" target="_blank"><i class="fa fa-calendar fa-lg"></i>
+                        <br /><strong><small>CALENDAR</small></strong></a></li>
+                        <li><a href="http://brooklynairspace.us9.list-manage.com/subscribe?u=2ab191cf6852907a40928cc40&id=3c6069fbcb" target="_blank"><i class="fa fa-newspaper-o fa-lg"></i><br /><strong><small>SUBSCRIBE</small></strong>
+                        </a></li>
+                    </ul>
+                </div>
+                 <div class="menu-group-center show-for-large">
+                    <ul class="dark menu-bar">
+                        <li><a ui-sref="instructors" >
+                            <br /><i class="fa fa-plane fa-rotate-270 fa-2x"></i>
+                        <br /><small style="letter-spacing: .25em;" align="center"><strong>INSTRUCTORS<br /></strong></small></a></li>
+                        <li><a ui-sref="home" >
+                            <img src="assets/img/logos/header_wings_white.png" alt="" width="18" height="18">
+                        <p style="letter-spacing: 1em;" align="center"><strong>BROOKLYN AIRSPACE</strong></p></a></li>
+                        <li><a ui-sref="classes" >
+                            <br /><i class="fa fa-paper-plane  fa-2x"></i>
+                        <br /><small style="letter-spacing: .25em;" align="center"><strong>CLASSES<br /></strong></small></a></li>
+                    </ul>
+                </div>
+                <div class="menu-group-right show-for-large">
+                    <ul class="menu-bar dark">
+                        <li><a href="http://instagram.com/bkairspace" target="_blank"><i class="fa fa-instagram fa-lg"></i><br /><strong><small>INSTAGRAM</small></strong></a></li>
+                        <li><a href="http://facebook.com/bkairspace" target="_blank"><i class="fa fa-facebook fa-lg"></i><br /><strong><small>FACEBOOK</small></strong></a></li>
+                        <li><a href="http://twitter.com/bkairspace" target="_blank"><i class="fa fa-twitter fa-lg"></i><br /><strong><small>TWITTER</small></strong></a></li>
+                    </ul>
+                </div>
+
+    </div>
+
+ <!-- MOBILE NAV -->
+    <div class="grid-frame vertical">
+        <div class="show-for-small show-for-medium hide-for-large" id="header">
+            <a zf-open="menu" class="" >
+                <div class="grid-content" id="" style="padding: 0;">
+                    <div class="title-bar dark" id="">
+                        <div class="center title">
+                                <small style="letter-spacing: .5em;">
+                                <strong>MENU</strong>
+                                </small>
+                            </div>
+                            <span class="left"> <img src="assets/img/logos/header_wings_white.png" alt="" width="16" height="16" fa-spin></span>
+                            <span class="right"> <img src="assets/img/logos/header_wings_white.png" alt="" width="16" height="16"></span>
+                        </div>
+                    </div>
+            </a>
+        </div>
+     
+<!-- Grid Content to Load Views -->
+           <!-- <div class="grid-block " > -->
+           <div class="grid-block align-center">
+                 <div ng-class="['ui-animation']" ui-view autoscroll="true"></div>
+        </div>
+    <!-- </div> -->
+    </div> 
+        </body>
+
+    </html>
